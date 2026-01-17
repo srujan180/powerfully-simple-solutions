@@ -24,7 +24,7 @@ export const Header = () => {
       <div className="section-container">
         <nav className="flex items-center justify-between h-16 md:h-20">
           <a href="#" className="text-lg font-semibold text-foreground">
-            Power Platform Developer
+            Srujan Annam
           </a>
 
           {/* Desktop Navigation */}
