@@ -41,7 +41,7 @@ export const ContactSection = () => {
       icon: MessageSquare,
       label: "WhatsApp",
       value: "Send a message",
-      href: "https://wa.me/919705351148",
+      href: "https://wa.me/9705351148",
     },
   ];
 
