@@ -17,7 +17,7 @@ export const HeroSection = () => {
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent text-accent-foreground text-sm font-medium mb-8"
           >
             <Sparkles size={16} />
-            <span>Microsoft Power Platform Specialist</span>
+            <span>Microsoft Power Platform Developer</span>
           </motion.div>
 
           <motion.h1
