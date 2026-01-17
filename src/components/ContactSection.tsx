@@ -28,20 +28,20 @@ export const ContactSection = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "hello@example.com",
-      href: "mailto:hello@example.com",
+      value: "annamsrujanreddy2002@gmail.com",
+      href: "mailto:annamsrujanreddy2002@gmail.com",
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567",
+      value: "+91-9705351148",
+      href: "tel:+919705351148",
     },
     {
       icon: MessageSquare,
       label: "WhatsApp",
       value: "Send a message",
-      href: "https://wa.me/15551234567",
+      href: "https://wa.me/919705351148",
     },
   ];
 
